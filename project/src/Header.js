@@ -63,7 +63,7 @@ const Header = () => {
               <MenuItem icon={<RiPencilLine />}>Schedule Generator</MenuItem>
               <MenuItem icon={<BiCog />}>Weekly Traning Plan</MenuItem>
               <MenuItem icon={<BiCog />}>Team Metrics</MenuItem>
-              <MenuItem icon={<BiCog />}>Customizations</MenuItem>
+              <MenuItem icon={<BiCog />}>Customizations sonu</MenuItem>
             </Menu>
           </SidebarContent>
         </ProSidebar>
